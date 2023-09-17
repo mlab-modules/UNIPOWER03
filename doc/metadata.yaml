@@ -1,0 +1,14 @@
+description: ' Universal power supply module 5V or 12V.'
+github_branch: UNIPOWER03A
+github_description: ' Universal power supply module 5V or 12V.'
+github_repo: UNIPOWER03
+github_url: https://github.com/mlab-modules/UNIPOWER03
+homepage: false
+images:
+- doc/img/UNIPOWER03A_small.jpg
+- doc/img/UNIPOWER03A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: UNIPOWER03
+updated: '2023-09-17T11:35:18.170155+00:00'
